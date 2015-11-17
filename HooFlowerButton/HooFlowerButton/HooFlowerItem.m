@@ -1,9 +1,7 @@
 //
-//  BROptionItem.m
-//  BROptionsButtonDemo
 //
-//  Created by Basheer Malaa on 3/10/14.
-//  Copyright (c) 2014 Basheer Malaa. All rights reserved.
+//  Created by JackieHoo on 3/10/14.
+//  Copyright (c) 2015 JackieHoo. All rights reserved.
 //
 
 #import "HooFlowerItem.h"

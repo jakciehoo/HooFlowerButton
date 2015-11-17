@@ -2,6 +2,12 @@
  非常酷的一个单击按钮显示更多按钮的，类似开花的效果
  */
 
+//
+//
+//  Created by JackieHoo on 3/10/14.
+//  Copyright (c) 2015 JackieHoo. All rights reserved.
+//
+
 #import <UIKit/UIKit.h>
 #import "HooFlowerItem.h"
 @class HooFlowerButton;
